@@ -10,8 +10,8 @@ Aplicación por consola para administrar información de países (nombre, poblac
 
 ## Integrantes
 
-- Nadia Schnaible
-- Leandro Traficante  
+- Schnaible Nadia
+- Traficante Leandro
 
 ## Requisitos
 
@@ -30,10 +30,10 @@ python main.py
 | Archivo      | Rol                          |
 | ------------ | ---------------------------- |
 | `main.py`    | Entrada del programa         |
-| `paises.csv` | Dataset base (consigna)      |
+| `paises.csv` | Dataset base     |
 
 ## Enlaces (completar al entregar)
 
-- Repositorio GitHub: _pendiente_
+- Repositorio GitHub: https://github.com/leandrotraficante/UTN-TUPaD-P1-TPI-Schnaible-Traficante
 - Video demostración (10–15 min, público): _pendiente_
 - Informe en PDF (o enlace): _pendiente_
