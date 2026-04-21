@@ -35,5 +35,5 @@ python main.py
 ## Enlaces (completar al entregar)
 
 - Repositorio GitHub: https://github.com/leandrotraficante/UTN-TUPaD-P1-TPI-Schnaible-Traficante
-- Video demostración (10–15 min, público): _pendiente_
-- Informe en PDF (o enlace): _pendiente_
+- Video demostración: _pendiente_
+- Informe en PDF: _pendiente_
