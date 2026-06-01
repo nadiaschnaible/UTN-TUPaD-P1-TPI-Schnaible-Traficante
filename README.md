@@ -119,5 +119,5 @@ Argentina,45376763,2780400,América
 ## Enlaces (completar al entregar)
 
 - **Repositorio GitHub:** https://github.com/leandrotraficante/UTN-TUPaD-P1-TPI-Schnaible-Traficante
-- **Video demostración (10–15 min, público):** _pendiente_
-- **Informe en PDF:** _pendiente_
+- **Video demostración (10–15 min, público):** https://youtu.be/8om5lKeMwEs
+
